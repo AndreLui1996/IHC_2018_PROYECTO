@@ -1,4 +1,3 @@
-
 # Batle Balls - Proyecto IHC - UCSP
 
 El juego se basa en un juego multijugador, con dos personajes principales, el jugador principal 
@@ -29,7 +28,6 @@ Leap Motion
 
 Como primer paso se debe instalar:
 
-
 ```
 Unity de la pagina oficial
 ```
@@ -47,8 +45,6 @@ Descargar : "Get Started with Our SDK"
 
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Ejecutanto
 
 Se debe abrir Unity 3D y buscar el archivo Unity descargado y lito.
@@ -57,9 +53,8 @@ Se debe abrir Unity 3D y buscar el archivo Unity descargado y lito.
 
 Se debe construir "build" , todas las escenas.
 ```
-Give an example
+![alt text](https://github.com/AndreLui1996/IHC_2018_PROYECTO/blob/master/Captura_1.PNG)
 ```
-
 
 ## Despliegue
 
